@@ -1,8 +1,6 @@
 # RGML (Radio Graphics Markdown Language)
 (Phillip J Rhoades - KE8GGD)
 
-    ----------------------------------
-    
     This is a simple set of narrow-band transmittable instructions that could be
     used to transfer a schematic, drawing, etc from one location to another.
     
