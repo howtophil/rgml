@@ -38,7 +38,7 @@
     CR X,Y,Radius
     	Draw a circle of a given radius, centered at X,Y
     
-    TT X,Y,"Text to place",Veritcal Anchor, Horizontal Anchor
+    TT X,Y,"Text to place",Vertical Anchor, Horizontal Anchor
     	Place text at X,Y
     	Anchor expressed as Top, Bottom, Middle (TBC) and Left, Right, Center (LRC)
     		Anchors are optional. Defaults to top left corner as an anchor point.
