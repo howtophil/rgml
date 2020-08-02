@@ -64,8 +64,8 @@
     E (modifier) can preface any graphics function.
     	Erases lines, fills, etc in defined shape space.
     	ESQ X1,Y1,X2,Y2 is used to erase a rectangle of area
-    	FTR [...] an eraser triangle.
-    	FCR [...] an eraser circle.
+    	ETR [...] an eraser triangle.
+    	ECR [...] an eraser circle.
     	This allows you to draw a shape, then remove parts that are not needed.
     		Could get an arc out of a circle and an erase-circle/rectangle, triangle, etc
     
