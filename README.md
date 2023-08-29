@@ -73,15 +73,15 @@ E (modifier) can preface any graphics function.
 		Could get an arc out of a circle and an erase-circle/rectangle, triangle, etc
 
 ----------------------------------
-
-> GR 10,10
-> SQ 2,9,6,5
-> PL 3,8
-> PL 5,8
-> PL 3,7,4,6,5,7
-> SQ 3,5,5,3
-> SQ 1,3,7,1
-> PL 8,7,7,6,8,5
-> TT 8,6,"HELLO",C,L
-
+  
+> GR 10,10  
+> SQ 2,9,6,5  
+> PL 3,8  
+> PL 5,8  
+> PL 3,7,4,6,5,7  
+> SQ 3,5,5,3  
+> SQ 1,3,7,1  
+> PL 8,7,7,6,8,5  
+> TT 8,6,"HELLO",C,L  
+  
 ----------------------------------
